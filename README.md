@@ -1,1 +1,1 @@
-# sentiment_analysis_rnn_lstm
+# Sentiment Analysis Using RNN+LSTM
